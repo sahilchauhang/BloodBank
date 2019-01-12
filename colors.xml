@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b60c0c</color>
+    <color name="colorPrimaryDark">#b60c0c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bground">#d91116</color>
+    <color name="text">#ffffff</color>
+    <color name="cursor">#ffffff</color>
+    <color name="data">#006a6a</color>
+
+
+
+</resources>
